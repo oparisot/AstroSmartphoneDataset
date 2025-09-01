@@ -18,6 +18,10 @@ The dataset can be found here:
 
 - **[2025] AstroSmartphoneDataset: a collection of astronomical images captured with smartphones** – [DOI Link](https://doi.org/10.5281/zenodo.14933724) 
 
+The following paper describes the dataset:
+
+- **[2025] Toward a Public Dataset of Wide-Field Astronomical Images Captured with Smartphones** – [DOI Link](https://doi.org/10.5220/0013642300003967) 
+
 If you use this dataset in a publication, please notify us to include it in this list.
 
 ## 🎓 Citation
@@ -25,14 +29,16 @@ If you use this dataset in a publication, please notify us to include it in this
 If you use **AstroSmartphoneDataset** in your work, please cite it as follows:
 
 ```bibtex
-@misc{parisot2025astrosmartphonedataset,
-  author       = {Parisot, Olivier},
-  title        = {AstroSmartphoneDataset: a collection of astronomical images captured with smartphones},
-  year         = 2025,
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.14933725},
-  url          = {https://doi.org/10.5281/zenodo.14933725},
+@conference{data25,
+author={Olivier Parisot and Diogo Fernandes},
+title={Toward a Public Dataset of Wide-Field Astronomical Images Captured with Smartphones},
+booktitle={Proceedings of the 14th International Conference on Data Science, Technology and Applications - Volume 1: DATA},
+year={2025},
+pages={644-650},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013642300003967},
+isbn={978-989-758-758-0},
 }
 ```
 
@@ -48,3 +54,4 @@ See [`LICENSE`](https://zenodo.org/records/14933725/files/license.txt?download=1
 For questions or collaborations, please contact **Olivier Parisot** at **olivier.parisot@list.lu** or open an issue on **GitHub**.
 
 Copyright 2021-2025 Luxembourg Institute of Science and Technology (LIST - http://www.list.lu/).
+
